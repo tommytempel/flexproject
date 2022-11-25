@@ -1,0 +1,70 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    background-color: white;
+    color: blue;
+    font-size: 24px;
+    width: 750px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.ul {
+    background-color: midnightblue;
+    color: white;
+    display: flex;
+    width: 750px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.subul {
+    font-size: 24px;
+    font-style: italic;
+}
+
+.shows {
+    background-color: white;
+    color: black;
+    font-size: 75px;
+    width: 750px;
+}
+
+    .shows1 {
+     font-size: 10px;
+    }
+
+    .shows2 {
+        color: green;
+        font-size: 24px;
+    }
+
+
+
+.conclusion {
+    background-color: gray;
+    color: white;
+    width: 750px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+    
+    .conclusion1 {
+        font-size: 50px;
+
+    }
+
+    .conclusion2{
+        font-size: 5px;
+        color: black;
+    }
